@@ -4,7 +4,11 @@
   "author": "Jordan-Haidee",
   "description": "A Native Shell port of Zeedle for local music, with lyric seeking, live spectrum and in-place metadata editing.",
   "category": "media",
-  "platforms": ["Windows", "Linux", "macOS"],
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
   "website": null,
   "source": "https://github.com/Jordan-Haidee/zeedle-nsh",
   "publishedAt": "2026-10-30T02:30:00+08:00",
@@ -15,5 +19,7 @@
     "preview3.png",
     "preview4.png",
     "preview5.png"
-  ]
+  ],
+  "stars": 0,
+  "starsUpdatedAt": "2026-11-04T11:04:16.609Z"
 }
